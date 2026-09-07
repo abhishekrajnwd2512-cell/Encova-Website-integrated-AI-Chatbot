@@ -1,0 +1,67 @@
+{
+    "greetings": {
+        "hi": "Hello! 👋 I'm Encova AI. How can I help you today?",
+        "hello": "Hello! 👋 I'm Encova AI. How can I help you today?",
+        "hey": "Hey! 👋 I'm Encova AI. How can I help you today?",
+        "hi there": "Hello! 👋 I'm Encova AI. How can I help you today?",
+        "hello there": "Hello! 👋 I'm Encova AI. How can I help you today?",
+        "hey there": "Hey! 👋 I'm Encova AI. How can I help you today?",
+        "hello encova": "Hello! 👋 I'm Encova AI. How can I help you today?",
+        "hi encova": "Hello! 👋 I'm Encova AI. How can I help you today?",
+        "hey encova": "Hey! 👋 I'm Encova AI. How can I help you today?"
+    },
+
+    "services": {
+        "what services does encova provide": "Encova Solutions provides Web Development, AI & Machine Learning, Mobile Development, and UI/UX Design.",
+        "what services do you provide": "Encova Solutions provides Web Development, AI & Machine Learning, Mobile Development, and UI/UX Design.",
+        "what services do you offer": "Encova Solutions provides Web Development, AI & Machine Learning, Mobile Development, and UI/UX Design.",
+        "what are your services": "Our services include Web Development, AI & Machine Learning, Mobile Development, and UI/UX Design.",
+        "what does encova do": "Encova Solutions provides Web Development, AI & Machine Learning, Mobile Development, and UI/UX Design.",
+        "what does encova solutions do": "Encova Solutions provides Web Development, AI & Machine Learning, Mobile Development, and UI/UX Design.",
+        "tell me about your services": "Our services include Web Development, AI & Machine Learning, Mobile Development, and UI/UX Design.",
+        "what can encova do": "Encova Solutions provides Web Development, AI & Machine Learning, Mobile Development, and UI/UX Design."
+    },
+
+    "company": {
+        "what is encova": "Encova Solutions is a technology company focused on creating modern digital solutions for businesses.",
+        "what is encova solutions": "Encova Solutions is a technology company focused on creating modern digital solutions for businesses.",
+        "tell me about encova": "Encova Solutions focuses on modern digital solutions, including web development, mobile applications, AI, automation, and UI/UX design.",
+        "tell me about encova solutions": "Encova Solutions focuses on modern digital solutions, including web development, mobile applications, AI, automation, and UI/UX design."
+    },
+
+"office": {
+    "what are your office timings": "Our office timings are Monday to Friday, from 9:00 AM to 5:00 PM.",
+    "what are your office hours": "Our office hours are Monday to Friday, from 9:00 AM to 5:00 PM.",
+    "when is the office open": "Our office is open Monday to Friday, from 9:00 AM to 5:00 PM.",
+    "when are you open": "Our office is open Monday to Friday, from 9:00 AM to 5:00 PM.",
+    "what time does the office open": "Our office opens at 9:00 AM, Monday to Friday.",
+    "what time does the office close": "Our office closes at 5:00 PM, Monday to Friday.",
+    "what days are you open": "Our office is open Monday to Friday.",
+    "what days is the office open": "Our office is open Monday to Friday.",
+    "what are your working days": "Our working days are Monday to Friday.",
+    "which days are you open": "We are open Monday to Friday.",
+    "is the office open on saturday": "No, our office is open Monday to Friday.",
+    "is the office open on sunday": "No, our office is open Monday to Friday."
+},
+
+    "location": {
+        "where is encova located": "Encova Solutions is located in Peshawar, Pakistan, at Deans Plaza, 3rd Floor, Room TF-200.",
+        "where is encova": "Encova Solutions is located in Peshawar, Pakistan, at Deans Plaza, 3rd Floor, Room TF-200.",
+        "where is encova solutions located": "Encova Solutions is located in Peshawar, Pakistan, at Deans Plaza, 3rd Floor, Room TF-200.",
+        "where is your office": "Our office is located in Peshawar, Pakistan, at Deans Plaza, 3rd Floor, Room TF-200.",
+        "where are you located": "Our office is located in Peshawar, Pakistan, at Deans Plaza, 3rd Floor, Room TF-200.",
+        "what is your location": "Encova Solutions is located in Peshawar, Pakistan, at Deans Plaza, 3rd Floor, Room TF-200."
+    },
+
+    "people": {
+        "who is the ceo": "The CEO of Encova Solutions is Abdul Basit.",
+        "who is encovas ceo": "The CEO of Encova Solutions is Abdul Basit.",
+        "who is encova's ceo": "The CEO of Encova Solutions is Abdul Basit.",
+        "who is the chief executive officer": "The CEO of Encova Solutions is Abdul Basit.",
+        "who is the co founder": "The co-founder of Encova Solutions is Talha Ahmad.",
+        "who is the co-founder": "The co-founder of Encova Solutions is Talha Ahmad.",
+        "who is encovas co founder": "The co-founder of Encova Solutions is Talha Ahmad.",
+        "who is encova's co founder": "The co-founder of Encova Solutions is Talha Ahmad.",
+        "who founded encova": "The co-founder of Encova Solutions is Talha Ahmad."
+    }
+}

@@ -1,0 +1,3 @@
+system: You are a professional business assistant. Give clear, concise, and professional answers. Focus on practical solutions.
+user: Hello
+assistant: i received your message!
