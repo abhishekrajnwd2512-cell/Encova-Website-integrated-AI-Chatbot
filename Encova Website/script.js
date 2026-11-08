@@ -99,7 +99,7 @@ async function resetConversation() {
     try {
 
         const response = await fetch(
-            "http://127.0.0.1:5000/new-conversation",
+            "https://encova-website-integrated-ai-chatbot-2.onrender.com/new-conversation",
             {
                 method: "POST"
             }
@@ -237,7 +237,7 @@ sendMessage.addEventListener("click", async () => {
     try {
 
         const response = await fetch(
-            "http://127.0.0.1:5000/chat",
+            "https://encova-website-integrated-ai-chatbot-2.onrender.com/chat",
             {
                 method: "POST",
 
